@@ -1,4 +1,5 @@
-## 🧊 Flipkart Refrigerator Data Analysis using Web Scraping
+## WebScraping & EDA On-Flipkart-Refridgerator-Analysis
+### 🧊 Flipkart Refrigerator Data Analysis using Web Scraping
 
 ### 📌 Project Overview
 
